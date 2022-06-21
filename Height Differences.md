@@ -5,3 +5,5 @@ When we have a centre stack (5-4, 6-3, 7-2), the 1-block gap in the middle is kn
 There are three main height differences: 1, 2 and 3. If the height difference is greater than 3, you can use an I piece to bring up one side. 
 
 How to resolve height difference of 1: 
+
+[when I have the time and effort to open fourtris]
